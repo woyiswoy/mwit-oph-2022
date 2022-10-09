@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@100;200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@100;200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=B612+Mono:wght@400;700&display=swap');
+
+@font-face {
+  font-family: 'Cloud Soft';
+  src: url('https://mwitophcdn.woyiswoy.com/fonts/CloudSoft-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Cloud Soft';
+  src: url('https://mwitophcdn.woyiswoy.com/fonts/CloudSoft-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Cloud Soft';
+  font-weight: bold;
+  src: url('https://mwitophcdn.woyiswoy.com/fonts/CloudSoft-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Cloud Soft';
+  font-weight: 600;
+  src: url('https://mwitophcdn.woyiswoy.com/fonts/CloudSoft-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: 'Cloud Soft';
+  font-weight: 100;
+  src: url('https://mwitophcdn.woyiswoy.com/fonts/CloudSoft-Thin.ttf');
+}
+
+@font-face {
+  font-family: 'Cloud Soft';
+  font-weight: 300;
+  src: url('https://mwitophcdn.woyiswoy.com/fonts/CloudSoft-Light.ttf');
+}
+
+@font-face {
+  font-family: 'Cloud Soft';
+  font-style: italic;
+  src: url('https://mwitophcdn.woyiswoy.com/fonts/CloudSoft-Italic.ttf');
+}
+
+@font-face {
+  font-family: 'Cloud Soft';
+  font-weight: bold;
+  font-style: italic;
+  src: url('https://mwitophcdn.woyiswoy.com/fonts/CloudSoft-BoldItalic.ttf');
+}
+
+@font-face {
+  font-family: 'Cloud Soft';
+  font-weight: 600;
+  font-style: italic;
+  src: url('https://mwitophcdn.woyiswoy.com/fonts/CloudSoft-SemiBoldItalic.ttf');
+}
+
+@font-face {
+  font-family: 'Cloud Soft';
+  font-weight: 100;
+  font-style: italic;
+  src: url('https://mwitophcdn.woyiswoy.com/fonts/CloudSoft-ThinItalic.ttf');
+}
+
+@font-face {
+  font-family: 'Cloud Soft';
+  font-weight: 300;
+  font-style: italic;
+  src: url('https://mwitophcdn.woyiswoy.com/fonts/CloudSoft-LightItalic.ttf');
+}
+
+@font-face {
+  font-family: 'PPAgrandir-Grand';
+  src: url('https://mwitophcdn.woyiswoy.com/fonts/PPAgrandir-GrandHeavy.otf');
+}
+
+@font-face {
+  font-family: 'PPAgrandir-Grand Light';
+  src: url('https://mwitophcdn.woyiswoy.com/fonts/PPAgrandir-GrandLight.otf');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

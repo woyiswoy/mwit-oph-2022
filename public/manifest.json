@@ -1,0 +1,31 @@
+{
+    "theme_color": "#fcf4a0",
+    "background_color": "#fcf4a0",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "MWIT Open House 2022",
+    "short_name": "MWIT OPH 2022",
+    "description": "MWIT Open House 2022 | 22 - 27 \u0e2a\u0e34\u0e07\u0e2b\u0e32\u0e04\u0e21 2565",
+    "icons": [{
+            "src": "https://mwitophcdn.woyiswoy.com/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://mwitophcdn.woyiswoy.com/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "https://mwitophcdn.woyiswoy.com/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "https://mwitophcdn.woyiswoy.com/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
