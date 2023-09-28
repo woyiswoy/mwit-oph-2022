@@ -2,7 +2,7 @@
 
 The website includes online exhibitions and live sessions' booking system.
 
-Exported to a static website at [openhouse.mwit.ac.th](https://openhouse.mwit.ac.th) (modified by the current student committee). However, you can view my version at [mwitoph2022.woyiswoy.com](https://mwitoph2022.woyiswoy.com)
+Exported to a static website at ~~[openhouse.mwit.ac.th](https://openhouse.mwit.ac.th)~~ (modified by the current student committee). However, you can view my version at [mwitoph2022.woyiswoy.com](https://mwitoph2022.woyiswoy.com)
 
 ## Framwork and Libraries
 
